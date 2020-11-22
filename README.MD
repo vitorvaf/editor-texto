@@ -1,0 +1,1 @@
+#Simples editor de texto utilizando electron

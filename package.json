@@ -1,0 +1,15 @@
+{
+  "name": "text-editor",
+  "version": "1.0.0",
+  "description": "Simple text editor",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^11.0.2"
+  }
+}
